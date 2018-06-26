@@ -1,0 +1,4 @@
+database ===" voiture "
+table === ' add_car '  " id int ,
+	   name varchar(100)
+           image longtext "
